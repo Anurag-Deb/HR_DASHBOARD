@@ -2,6 +2,8 @@
 
 ![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165015.png?raw=true)
 
+![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165052.png?raw=true)
+
 __📊 Project Overview__
 ---
 
