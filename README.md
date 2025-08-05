@@ -6,10 +6,34 @@ __📊 Project Overview__
 This project demonstrates an HR Employee Distribution Dashboard built using Power BI.
 The dataset was preprocessed and cleaned using MySQL Workbench, ensuring accurate and insightful visualizations.
 
+__📈 Visualizations__
+---
 
 ![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165015.png?raw=true)
 
+__1️⃣ Dashboard 1: HR Employee Report__
+- Overall Gender Distribution
+
+- Remote vs Headquarters Distribution
+
+- Employee Growth (2000-2020)
+
+- Race Distribution
+
+- State-wise Employee Count
+
+- Average Length of Employment
+
 ![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165052.png?raw=true)
+
+__2️⃣ Dashboard 2: Employee Distribution Analysis__
+- Age Distribution by Gender
+
+- Age Group Distribution
+
+- Department-wise Termination Rates
+
+- Gender Distribution by Department
 
 
 
