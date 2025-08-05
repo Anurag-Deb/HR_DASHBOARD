@@ -38,6 +38,13 @@ __2️⃣ Dashboard 2: Employee Distribution Analysis__
 - Gender Distribution by Department
 
 
+__🛠️ Tools Used__
+---
+
+- __MySQL Workbench__ → Data Cleaning & Preprocessing
+
+- __Power BI__ → Dashboard Development & Visualization
+
 
 __🗂️ Dataset__
 ---
@@ -68,9 +75,3 @@ The dataset contains information about employees, including:
 
 - Prepare for smooth integration with Power BI
 
-__🛠️ Tools Used__
----
-
-- __MySQL Workbench__ → Data Cleaning & Preprocessing
-
-- __Power BI__ → Dashboard Development & Visualization
