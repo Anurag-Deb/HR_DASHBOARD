@@ -1,14 +1,17 @@
 # HR_DASHBOARD
 
-![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165015.png?raw=true)
-
-![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165052.png?raw=true)
-
 __📊 Project Overview__
 ---
 
 This project demonstrates an HR Employee Distribution Dashboard built using Power BI.
 The dataset was preprocessed and cleaned using MySQL Workbench, ensuring accurate and insightful visualizations.
+
+
+![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165015.png?raw=true)
+
+![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165052.png?raw=true)
+
+
 
 __🗂️ Dataset__
 ---
