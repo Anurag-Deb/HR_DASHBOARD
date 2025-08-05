@@ -1,6 +1,6 @@
 # HR_DASHBOARD
 
-![](Screenshot 2025-08-05 165015.png)
+![](HR_DASHBOARD/Screenshot 2025-08-05 165015.png)
 
 __📊 Project Overview__
 ---
