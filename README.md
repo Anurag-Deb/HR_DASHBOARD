@@ -4,33 +4,35 @@ This project demonstrates an HR Employee Distribution Dashboard built using Powe
 The dataset was preprocessed and cleaned using MySQL Workbench, ensuring accurate and insightful visualizations.
 
 __🗂️ Dataset__
+
 The dataset contains information about employees, including:
 
-Gender
+- Gender
 
-Age groups
+- Age groups
 
-Departments
+- Departments
 
-Termination rates
+- Termination rates
 
-Race distribution
+- Race distribution
 
-Employment location (Remote vs Headquarters)
+- Employment location (Remote vs Headquarters)
 
-State-wise distribution
+- State-wise distribution
 
-Historical employment trends
+- Historical employment trends
 
-The dataset was cleaned in MySQL Workbench to:
+- The dataset was cleaned in MySQL Workbench to:
 
-Handle missing values
+- Handle missing values
 
-Standardize formats (dates, categories, etc.)
+- Standardize formats (dates, categories, etc.)
 
-Prepare for smooth integration with Power BI
+- Prepare for smooth integration with Power BI
 
 __🛠️ Tools Used__
-MySQL Workbench → Data Cleaning & Preprocessing
 
-Power BI → Dashboard Development & Visualization
+- __MySQL Workbench__ → Data Cleaning & Preprocessing
+
+- __Power BI__ → Dashboard Development & Visualization
