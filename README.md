@@ -1,6 +1,6 @@
 # HR_DASHBOARD
 
-![](HR_DASHBOARD/Screenshot 2025-08-05 165015.png)
+![Dashboard screenshot](https://github.com/Anurag-Deb/HR_DASHBOARD/blob/main/Screenshot%202025-08-05%20165015.png?raw=true)
 
 __📊 Project Overview__
 ---
