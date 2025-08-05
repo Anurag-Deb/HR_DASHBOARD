@@ -1,5 +1,6 @@
 # HR_DASHBOARD
 __📊 Project Overview__
+
 This project demonstrates an HR Employee Distribution Dashboard built using Power BI.
 The dataset was preprocessed and cleaned using MySQL Workbench, ensuring accurate and insightful visualizations.
 
